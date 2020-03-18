@@ -4,3 +4,4 @@ programming-section-2
 /.project
 /target/classes/META-INF/MANIFEST.MF
 /target/classes/htu/edu/lesson1/Test1.class
+*.class
