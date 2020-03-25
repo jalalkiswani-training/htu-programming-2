@@ -1,0 +1,5 @@
+1- Post increment/ pre increment
+2- Why to put f next to the float
+3- Data types Casting
+4- Main string functions, and String equality
+5- For/ Switch/ While / loop / DoWhile 
