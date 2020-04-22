@@ -54,10 +54,12 @@ public class Test {
 	
 	//Duplicate: is one of the most visible signs of Bad Smells in code
 	
-	//method overloading: having another function with the same name,
+	//method OVERLOADING: having another function with the same name,
 	//the difference will be in the paramters datatypes, numebrs, and orders 
 	//for example String, int   ==> int, String
+	//if the function doesnot retrun any value, "void" keyword shall be used
 	public static int readNumber(String msg) {
+		//the variable decalred inside the method, is called "Local Variable", and is only visible inside the function/method
 		Scanner s = new Scanner(System.in);
 		System.out.print(msg);
 		int n = s.nextInt();
