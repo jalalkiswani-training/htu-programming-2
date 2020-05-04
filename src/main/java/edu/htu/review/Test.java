@@ -6,7 +6,7 @@ package edu.htu.review;
  2- navigate to the folder of source code using "cd" command
  3- compile the class using "javac" javac Test.java
  4- Test.class file will be generated 
- 5- To run the compiler class, we should use the "java" command
+ 5- To run the compiled class, we should use the "java" command
  6- java Test  //this will call the Test.class
  
  Result: The manual approach of using TextEditor and manual compilation and execution 
@@ -18,8 +18,8 @@ package edu.htu.review;
  1- Program: Source (Text Editor) --> Compilation (JDK) ---> Execution (JRE Java Runtime Environment)
  2- IDE Features: Project management, auto compilation, code assistance , simple execution 
  3- Types of projects: 
- 	3.1 Java Project (Simple to create, but not recommanded in the indurty of real-life projects) - 
- 	3.2 Maven Project (harder to create, but extemly recommanded)  
+ 	3.1 Java Project (Simple to create, but not recommanded in the industry of real-life projects) - 
+ 	3.2 Maven Project (harder to create, but extremely recommanded)  
 
 */
 import javax.swing.JOptionPane;
